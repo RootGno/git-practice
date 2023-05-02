@@ -1,2 +1,2 @@
 # Test python env
-print('hello')
+print('hello world')
